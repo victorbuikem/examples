@@ -7,7 +7,7 @@ export default async function Home() {
 
   return (
     <main className="container mx-auto max-w-4xl min-h-screen flex items-center flex-col justify-center">
-      <section className="w-full px-4 md:px-6 flex flex-col items-center text-center gap-6">
+      <section className="w-full px-4 md:pt-6 md:px-6 flex flex-col items-center text-center gap-6">
         <div className="max-w-lg">
           <h1 className="font-display text-4xl font-extrabold leading-[1.15] text-black sm:text-6xl sm:leading-[1.15]">
             Kickstart your
